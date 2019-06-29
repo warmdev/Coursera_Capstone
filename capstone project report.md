@@ -70,7 +70,7 @@ For the first regression, only features from the original dataset are used. For 
 
 Unfortunately, due to the limited number of amenities retrieved from Foursquare for each property, as shown below, the second regression only shows very minor improvement over the first model (with an increase of less than 0.1%). Nevertheless, the experiment shows the possibility of using Foursquare data in creating property valuation models.
 
-![Top venue counts for each properties]('images/venue_counts.png')
+![Top venue counts for each properties](images/venue_counts.png)
 
 ### Discussion
 
